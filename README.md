@@ -5,9 +5,10 @@
 ## Đề bài:
 <img src="image-readme/img.png"/>
 <br />
+
 ## Bài làm:
 <b>1.Bán hàng</b>
-- Đăng nhập
+- Đăng nhập sử dụng JWT:
 ![image](https://github.com/HoaiAn0906/week07_lab_PhanHoaiAn_20012781/assets/98022590/7c79b5ef-038f-4e9b-bb5c-bc77a2c847f3)
 - Hiển thị sản phẩm phân trang:
 ![image](https://github.com/HoaiAn0906/week07_lab_PhanHoaiAn_20012781/assets/98022590/c85d6a49-c591-4138-9ab3-85ed420dd8a7)
@@ -27,5 +28,6 @@
 ![image](https://github.com/HoaiAn0906/week07_lab_PhanHoaiAn_20012781/assets/98022590/4a6a352c-2f90-4eea-b98d-1bb7136a8aa2)
 - Tìm sản phẩm theo tên:
 ![image](https://github.com/HoaiAn0906/week07_lab_PhanHoaiAn_20012781/assets/98022590/15e6a9c9-de62-41d1-bdb8-1b3e2808edce)
-- Thêm products:
+- CRUD products, lưu ảnh trong thư mục static:
 ![image](https://github.com/HoaiAn0906/week07_lab_PhanHoaiAn_20012781/assets/98022590/11f900c2-d7e2-42db-afcf-0574b0033d96)
+- CRUD các đối tượng khác tương tự
